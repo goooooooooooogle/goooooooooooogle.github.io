@@ -1,5 +1,5 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
+title:            Homepage
+longtitle:        _Gitbook
 
 remote_theme:     sighingnow/jekyll-gitbook
